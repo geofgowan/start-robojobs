@@ -191,7 +191,6 @@ Don't add them here.
 .PARAMETER rerun
 This SWITCH changes the ROBOCOPY FLAGS to be less verbose by adding '/NP /NS /NC /NFL /NDL ' to the 
 robocopy flags, default or customized. 
-}
 
 .PARAMETER quiet
 This SWITCH will reduce the console output chatter
