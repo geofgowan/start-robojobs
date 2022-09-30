@@ -84,3 +84,4 @@ $src Change this to a directory which has lots of subdirectories that can be pro
 $dest Change this to where you want to backup your files to
 $max_jobs Change this to the number of parallel jobs to run ( <= 8 )
 $log Change this to the directory where you want to store the output of each robocopy job."
+ 
